@@ -1,0 +1,24 @@
+.carousel-inner .item{
+  height:80vh ;
+  max-width: 100%;
+  background-size: cover;
+  background-position: center;
+}
+.carousel-caption{
+  padding-bottom: 150px;
+}
+ .first-slide{
+  background-image: url('../img/camry.jpg');
+}
+.slide-logo{
+  max-height: 300px;
+}
+.second-slide{
+  background-image: url('../img/crossfire.jpg');
+}
+.third-slide{
+  background-image: url('../img/farm-2.jpg');
+}
+ .carousel-control{
+  color: #F8512f;
+}
